@@ -1,0 +1,54 @@
+---
+---
+
+:root {
+
+  /* BrandStack colors */
+
+  --brand-primary: #2C0406;
+  --brand-dark: #20130A;
+  --brand-light: #FCFBF0;
+
+}
+
+/* Background */
+
+body {
+  background-color: #FCFBF0;
+}
+
+/* Sidebar */
+
+.side-bar {
+  background-color: #20130A;
+}
+
+.side-bar a {
+  color: #FCFBF0;
+}
+
+.side-bar a:hover {
+  color: #ffffff;
+}
+
+/* Links */
+
+a {
+  color: #2C0406;
+}
+
+a:hover {
+  color: #20130A;
+}
+
+/* Search bar */
+
+.search-input {
+  background-color: #FCFBF0;
+}
+
+/* Headers */
+
+h1, h2, h3 {
+  color: #2C0406;
+}
