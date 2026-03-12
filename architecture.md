@@ -7,6 +7,19 @@ nav_order: 4
 
 BrandStack is designed as a layered system that transforms brand guidelines from static documentation into a structured operational platform.  Instead of storing brand knowledge in isolated documents, BrandStack organizes brand elements, workflows, and integrations into a connected architecture.  This architecture allows teams to manage brand assets, enforce brand rules, and distribute brand resources across the organization efficiently.  At its core, BrandStack acts as the infrastructure layer for brand management.
 
+## BrandStack Architecture
+
+The BrandStack system organizes brand infrastructure into layered components that connect strategy, assets, and team workflows.
+
+```
+Strategy Layer        → Brand Foundations
+Identity Layer        → Logos | Colors | Typography
+Guideline Layer       → Usage Rules
+Asset Layer           → Templates | Marketing Assets
+Workflow Layer        → Campaigns | Product Interfaces
+Access Layer          → Design | Marketing | Product Teams
+```
+
 ## Core Architecture Layers
 
 BrandStack consists of several interconnected layers that structure how brand systems operate within organizations.
