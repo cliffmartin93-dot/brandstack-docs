@@ -51,8 +51,6 @@ product interfaces
 This ensures that brand data remains accessible across the organization. 
 ## BrandStack System Overview 
 
-## BrandStack Architecture
-
 The BrandStack system organizes brand infrastructure into layered components that connect strategy, assets, and team workflows.
 
 ```
