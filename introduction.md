@@ -62,7 +62,7 @@ BrandStack enables organizations to share brand systems with internal teams and 
 Instead of distributing multiple documents or asset folders, companies can provide teams with a single structured interface where brand rules, assets, and templates are consistently maintained.
 This ensures that every team — from marketing to product to external partners — works from the same brand foundation.
 
-## Why use BrandStack
+## Why use BrandStack?
 
 Modern organizations rely on their brand to build recognition, trust, and long-term customer relationships. However, maintaining brand consistency across growing teams and multiple channels remains a persistent challenge.
 Most companies manage their brand through a fragmented collection of tools and documents: shared drives for assets, PDF guidelines for rules, design files for visual systems, and internal documents for messaging. While these resources contain important information, they rarely function as a unified system.
