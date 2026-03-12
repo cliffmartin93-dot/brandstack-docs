@@ -7,6 +7,7 @@ nav_order: 1
 
 Introduction
 Modern companies invest heavily in building their brands. They develop visual identities, create brand guidelines, and define messaging frameworks intended to ensure consistency across every customer touchpoint.  Yet despite these efforts, brand consistency often breaks down in practice.  Logos are stored in shared folders. Color codes live inside PDF documents. Typography rules are buried inside design files. Templates are scattered across different tools and teams.  As organizations grow, the brand becomes increasingly difficult to manage. Different teams interpret guidelines differently, new employees struggle to find the correct assets, and inconsistencies gradually emerge across marketing materials, product interfaces, and communications.  The problem is not a lack of branding.  The problem is a lack of brand infrastructure.  BrandStack was created to address this gap. Instead of treating brand guidelines as static documents, BrandStack introduces a structured system that enables companies to manage, maintain, and scale their brand consistently across teams.  This document introduces the concept of Brand Infrastructure and explains why modern companies require a new approach to managing their brand.
+
 What is BrandStack?
 BrandStack is a Brand Operating System designed to help companies organize, manage, and operationalize their brand.
 Traditional brand management relies on a collection of disconnected resources: design files, guideline documents, asset libraries, and internal knowledge scattered across tools such as shared drives, design platforms, and documentation systems. While these resources contain valuable information, they lack structure and integration.
@@ -20,9 +21,11 @@ Instead of navigating static documents, teams interact with a dynamic brand syst
 • templates ensure consistent implementation across teams
 By structuring brand knowledge in this way, BrandStack enables organizations to maintain clarity, consistency, and efficiency as they scale.
 In essence, BrandStack turns brand guidelines into brand infrastructure — a foundational system that supports every team responsible for representing the brand.
+
 Core Capabilities of BrandStack V1
 The first version of BrandStack focuses on establishing the foundational infrastructure required to organize and manage brand systems within modern organizations.
 Rather than attempting to solve every branding challenge at once, Version 1 focuses on four core capabilities that form the structural backbone of the Brand Operating System.
+
 Structured Brand Architecture 
 BrandStack introduces a structured data model for organizing brand elements. Instead of storing brand assets as isolated files, each component of a brand is connected within a unified architecture.
 This structure allows companies to define and organize:
@@ -31,10 +34,12 @@ This structure allows companies to define and organize:
 • color systems and typography
 • brand rules and usage guidelines
 By structuring brand knowledge in this way, organizations can maintain clarity and consistency across teams as the brand evolves.
+
 Centralized Brand Asset Library
 BrandStack provides a centralized asset library where teams can store, manage, and access brand assets in a controlled environment.
 Assets such as logos, icons, illustrations, and templates are directly connected to the brand system, ensuring that teams always use the most current and approved versions.
 This eliminates common issues such as outdated assets, duplicated files, and inconsistent usage across departments.
+
 Interactive Brand Guidelines
 Traditional brand guidelines are typically distributed as static PDF documents. While these documents define important rules, they are often difficult to navigate and quickly become outdated.
 BrandStack transforms brand guidelines into interactive and structured knowledge systems.
@@ -45,10 +50,12 @@ Guidelines are organized into clearly defined sections that teams can easily acc
 • tone of voice and messaging
 • visual examples and applications
 This approach ensures that brand guidelines remain accessible, searchable, and continuously up to date.
+
 Team Collaboration and Brand Sharing
 BrandStack enables organizations to share brand systems with internal teams and external collaborators through controlled access and shareable brand environments.
 Instead of distributing multiple documents or asset folders, companies can provide teams with a single structured interface where brand rules, assets, and templates are consistently maintained.
 This ensures that every team — from marketing to product to external partners — works from the same brand foundation.
+
 Why Use BrandStack?
 Modern organizations rely on their brand to build recognition, trust, and long-term customer relationships. However, maintaining brand consistency across growing teams and multiple channels remains a persistent challenge.
 Most companies manage their brand through a fragmented collection of tools and documents: shared drives for assets, PDF guidelines for rules, design files for visual systems, and internal documents for messaging. While these resources contain important information, they rarely function as a unified system.
@@ -67,8 +74,12 @@ With BrandStack, organizations gain:
 • Scalable brand governance – As organizations grow, their brand remains structured and manageable.
 Instead of relying on static documents and scattered tools, BrandStack provides the operational layer needed to manage a brand at scale.
 In essence, BrandStack transforms brand management from a collection of files into a structured operating system for modern brands.
-BrandStack in Action
+
+## BrandStack in Action
+
 Example of how BrandStack structures a brand system.
+
+```
 Brand
  ├── Brand Foundations
  │    ├── Mission
@@ -97,6 +108,7 @@ Brand
       ├── Designers
       ├── Marketing Team
       └── External Partners
+```
 In this example:
 • A company defines its brand structure inside BrandStack
 • Brand foundations establish the strategic core of the brand
