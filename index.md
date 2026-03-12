@@ -1,7 +1,7 @@
 ---
 title: BrandStack
 layout: home
-nav_order: 0
+nav_exclude: true
 ---
 
 # BrandStack
