@@ -117,9 +117,11 @@ Brand
       └── External Partners
 ```
 In this example:
+```
 • A company defines its brand structure inside BrandStack
 • Brand foundations establish the strategic core of the brand
 • Visual identity elements such as colors, logos, and typography are organized within the system
 • Brand guidelines define rules for how assets should be used
 • Teams access the same brand environment when creating materials
 Instead of searching through folders and documents, teams interact with a structured brand system.
+```
