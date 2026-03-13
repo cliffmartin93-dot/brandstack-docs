@@ -243,11 +243,14 @@ External partners receive incomplete brand documentation.
 The result is a brand that slowly loses clarity and consistency across touchpoints.
 ## Common issues organizations face include:
 
+```
 • Brand guidelines buried in static PDFs
 • Assets scattered across multiple platforms
 • Designers guessing logo usage rules
 • Marketing teams using outdated brand files
 • External partners lacking clear brand direction
+```
+
 Without a structured system, managing a brand becomes an operational challenge rather than a strategic advantage.
 BrandStack was built to solve this problem by transforming brand guidelines into an interactive brand infrastructure.
 
