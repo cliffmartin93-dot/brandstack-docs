@@ -52,6 +52,45 @@ a:hover {
 h1, h2, h3 {
   color: #2C0406;
 }
-.site-footer {
-  display: none;
+/* DARK MODE */
+.dark-mode {
+  background-color: #2C0406;
+  color: #FCFBF0;
+}
+
+/* Main content */
+.dark-mode .main-content {
+  background-color: #2C0406;
+  color: #FCFBF0;
+}
+
+/* Sidebar */
+.dark-mode .side-bar {
+  background-color: #1a0203;
+}
+
+/* Sidebar links */
+.dark-mode .side-bar a {
+  color: #FCFBF0;
+}
+
+/* Code blocks */
+.dark-mode pre,
+.dark-mode code {
+  background-color: #1a0203;
+  color: #FCFBF0;
+}
+
+/* Toggle button styling */
+.dark-toggle {
+  padding: 12px;
+}
+
+.dark-toggle button {
+  background: #2C0406;
+  color: #FCFBF0;
+  border: 1px solid #FCFBF0;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
 }
