@@ -19,7 +19,7 @@ Instead of treating brand as static documentation, BrandStack organizes brand sy
 ## Documentation
 
 Start exploring the BrandStack framework:
-
+ 
 - Introduction
 - BrandStack Structure
 - Brand Governance
