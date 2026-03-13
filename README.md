@@ -8,7 +8,7 @@ nav_order: 0
 
 BrandStack is a **Brand Operating System** designed to structure, govern, and scale brand systems across organizations.
 
-Traditional brand documentation lives in static PDFs, slide decks, and scattered folders. As companies grow, these formats become difficult to maintain, search, and operationalize.
+Traditional brand documentation lives in static PDFs, slide decks, and scattered folders. As companies grow, these formats become difficult to maintain, search, and operationalize. 
 
 BrandStack transforms brand knowledge into **structured infrastructure**.
 
